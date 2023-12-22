@@ -1,4 +1,6 @@
-# Google_Gemini_Pro
+# Google_Gemini_Pro LLM Model Free Api demo with code
+
+is it better than openai gpt?
 
 
 This quickstart demonstrates how to use the Python SDK for the Gemini API, which gives you access to Google's Gemini large language models. In this quickstart, you will learn how to:
